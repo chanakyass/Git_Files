@@ -1,1 +1,3 @@
 hey there i am using git.
+After commit, these lines are added.
+Check what happens.

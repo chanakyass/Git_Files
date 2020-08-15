@@ -1,1 +1,2 @@
 Hi this is my seconf file and I am using Git.
+After commit this is a change.
