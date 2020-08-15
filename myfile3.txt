@@ -1,1 +1,2 @@
 This is available only in child branch.
+Now merged and edited after commit.
